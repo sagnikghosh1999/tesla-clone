@@ -37,7 +37,7 @@ const Section = ({
             />
           </div>
           <Fade>
-            <div className=" pt-24 md:pt-28 text-center">
+            <div className=" pt-24 md:pt-28 text-center z-[1000]">
               <h1 className="text-2xl md:text-4xl  font-semibold tracking-wider">
                 {title}
               </h1>
